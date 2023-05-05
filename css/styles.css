@@ -98,6 +98,10 @@ body {
   display: flex;
 }
 
+.input:invalid {
+  border-color: #f44336;
+}
+
 /* section header */
 
 header {
